@@ -33,18 +33,4 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Maven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=flat-square&logo=apachemaven&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)
-## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=devanshkant&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devanshkant&layout=compact&langs_count=8&theme=algolia"/>
-</div>
-
-
-## Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devansh-kant-kashyap-889742319/)
-
----
-<img src="https://komarev.com/ghpvc/?username=devanshkant&color=red&style=flat-square&label=Visitors+Count" />
-  <br>
