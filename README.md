@@ -1,8 +1,8 @@
-# Hi there, I'm Devansh 👋
+# Hi there, I'm Mario 👋
 
 - 🌱 I'm currently learning Backend Development and Machine Learning
 - ➡️ I'm looking to collaborate on Web Dev Projects 
-- 📫 To contact me: <a href = "https://www.linkedin.com/in/devansh-kant-kashyap-889742319/" >LinkedIn</a> 
+
 
 ## Tech Stack
 
