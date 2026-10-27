@@ -14,15 +14,13 @@ Me interesa el desarrollo web y la creación de proyectos prácticos para seguir
 
 📍 Málaga, España.
 
-🛠️ Tecnologías y herramientas
-
 **Lenguajes:**
 
 ☕ Java
 
 🌐 HTML
 
-## 🛠️ Tecnologías
+## 🛠️ Tecnologías y herramientas
 
 🔧 Git y GitHub
 
