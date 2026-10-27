@@ -37,6 +37,7 @@ Próximamente encontrarás aquí algunos de mis proyectos personales y académic
 **📫 Contacto**
 
 GitHub: @Marioasecass
+Correo: palomomorenom@gmail.com
 
 ⭐ Gracias por visitar mi perfil.
 
