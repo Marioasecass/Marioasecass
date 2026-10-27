@@ -14,7 +14,7 @@ Me interesa el desarrollo web y la creación de proyectos prácticos para seguir
 
 📍 Málaga, España.
 
-**Lenguajes:**
+## 🧩 Lenguajes
 
 ☕ Java
 
@@ -34,7 +34,7 @@ Próximamente encontrarás aquí algunos de mis proyectos personales y académic
 
 <!-- Sustituye este texto por enlaces a tus mejores repositorios. -->
 
-**📫 Contacto**
+## 📫 Contacto
 
 GitHub: @Marioasecass
 
