@@ -20,6 +20,8 @@ Me interesa el desarrollo web y la creación de proyectos prácticos para seguir
 
 🌐 HTML
 
+🎨 CSS
+
 ## 🛠️ Tecnologías y herramientas
 
 🔧 Git y GitHub
