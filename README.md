@@ -1,10 +1,10 @@
 **¡Hola! Soy Mario 👋**
 
-💻 Actualmente estoy estudiando una FP de Diseño de Aplicaciones Web en Davante, Málaga.
+ Actualmente estoy estudiando una FP de Diseño de Aplicaciones Web en Davante, Málaga.
 
 Me interesa el desarrollo web y la creación de proyectos prácticos para seguir mejorando mis habilidades como desarrollador.
 
-**Sobre mi:**
+## 💻 Sobre mí
 
 🌱 Actualmente estoy aprendiendo y desarrollando mis habilidades de programación.
 
@@ -20,7 +20,9 @@ Me interesa el desarrollo web y la creación de proyectos prácticos para seguir
 
 ☕ Java
 
-**Herramientas y plataformas**
+🌐 HTML
+
+## 🛠️ Tecnologías
 
 🔧 Git y GitHub
 
@@ -28,7 +30,7 @@ Me interesa el desarrollo web y la creación de proyectos prácticos para seguir
 
 <!-- Añade HTML, CSS, JavaScript, SQL u otras tecnologías cuando las estés utilizando. -->
 
-**📂 Proyectos destacados**
+## 🚀 Mis proyectos
 
 Próximamente encontrarás aquí algunos de mis proyectos personales y académicos.
 
