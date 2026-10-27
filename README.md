@@ -1,4 +1,4 @@
-**¡Hola! Soy Mario 👋**
+## ¡Hola! Soy Mario 👋
 
  Actualmente estoy estudiando una FP de Diseño de Aplicaciones Web en Davante, Málaga.
 
