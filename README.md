@@ -1,11 +1,30 @@
-# Hola, Soy Mario 👋
+¡Hola! Soy Mario 👋
+💻 Estudiante de Desarrollo Web
+Actualmente estoy estudiando una FP de Diseño de Aplicaciones Web en Davante, Málaga.
 
-- 🌱 Estoy actualmente estudiando en una FP de Diseño de Web en Davante en Málaga
+Me interesa el desarrollo web y la creación de proyectos prácticos para seguir mejorando mis habilidades como desarrollador.
 
-### Idiomas
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+🚀 Sobre mí
+🌱 Actualmente estoy aprendiendo y desarrollando mis habilidades de programación.
+💻 Me gusta crear proyectos y experimentar con nuevas tecnologías.
+🎯 Mi objetivo es seguir creciendo como desarrollador web.
+📍 Málaga, España.
+🛠️ Tecnologías y herramientas
+Lenguajes
 
-### Herramientas, Databases & Plataformas
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+☕ Java
+Herramientas y plataformas
+
+🔧 Git y GitHub
+🐧 Ubuntu
+<!-- Añade HTML, CSS, JavaScript, SQL u otras tecnologías cuando las estés utilizando. -->
+
+📂 Proyectos destacados
+Próximamente encontrarás aquí algunos de mis proyectos personales y académicos.
+
+<!-- Sustituye este texto por enlaces a tus mejores repositorios. -->
+
+📫 Contacto
+GitHub: @Marioasecass
+⭐ Gracias por visitar mi perfil.
 
