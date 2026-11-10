@@ -44,7 +44,6 @@
     <img src="https://img.shields.io/badge/GITHUB-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     <img src="https://img.shields.io/badge/MARIOPALOMO-1F6FEB?style=for-the-badge&logoColor=white" alt="Mario Palomo GitHub"/>
   </a>
-  &nbsp;&nbsp;
   <!-- Email / Gmail -->
   <a href="palomomorenom@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
