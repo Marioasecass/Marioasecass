@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! 👋 Soy Mario </h1>
-<h3 align="center">Estudiante de DAW (Desarrollo de Aplicaciones Web) | Futuro Desarrollador Backend 🚀</h3>
+<h3 align="center">Estudiante de DAW (Desarrollo de Aplicaciones Web) </h3>
 
 <br>
 
