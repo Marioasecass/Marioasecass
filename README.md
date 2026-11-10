@@ -39,15 +39,14 @@
 ### 📫 ¿Cómo contactar conmigo?
 
 <p align="center">
-  <!-- GitHub -->
   <a href="https://github.com/Marioasecass">
     <img src="https://img.shields.io/badge/GITHUB-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     <img src="https://img.shields.io/badge/MARIOPALOMO-1F6FEB?style=for-the-badge&logoColor=white" alt="Mario Palomo GitHub"/>
   </a>
-  <!-- Email / Gmail -->
-  <a href="palomomorenom@gmail.com">
+  &nbsp;&nbsp;
+  <a href="mailto:palomomorenom@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    <img src="https://img.shields.io/badge/TU_CORREO%40EMAIL.COM-EA4335?style=for-the-badge&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/PALOMOMORENOM%40GMAIL.COM-EA4335?style=for-the-badge&logoColor=white" alt="Email"/>
   </a>
 </p>
 
