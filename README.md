@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="<img width="1584" height="672" alt="Gemini_Generated_Image_gqvt8lgqvt8lgqvt" src="https://github.com/user-attachments/assets/2c062231-7625-45a1-a248-012210be96cf" />
+" alt="Mario Asencio Header" width="100%" />
+</p>
+
 <h1 align="center">¡Hola! 👋 Soy Mario </h1>
 <h3 align="center">Estudiante de DAW (Desarrollo de Aplicaciones Web) | Futuro Desarrollador Backend 🚀</h3>
 
