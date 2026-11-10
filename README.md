@@ -41,7 +41,7 @@
 <p align="center">
   <a href="https://github.com/Marioasecass">
     <img src="https://img.shields.io/badge/GITHUB-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/MARIOPALOMO-1F6FEB?style=for-the-badge&logoColor=white" alt="Mario Palomo GitHub"/>
+    <img src="https://img.shields.io/badge/MARIOPALOMO-1F6FEB?style=for-the-badge&logoColor=white" alt="Marioasecass GitHub"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:palomomorenom@gmail.com">
