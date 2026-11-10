@@ -23,18 +23,29 @@
 
 ### 🛠️ Tecnologías y Herramientas
 
+#### 💻 Lenguajes y Maquetación
 <p>
   <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
+
+#### 🗄️ Bases de Datos
+<p>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+#### 🐧 Sistemas y Virtualización
+<p>
   <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/VIRTUALBOX-1B3A4B?style=for-the-badge&logo=virtualbox&logoColor=white" />
+</p>
+
+#### 🔧 Herramientas de Desarrollo
+<p>
   <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
----
 
 ### 📫 ¿Cómo contactar conmigo?
 
