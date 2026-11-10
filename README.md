@@ -1,3 +1,4 @@
+<img width="1584" height="672" alt="MarioPalomo jpg" src="https://github.com/user-attachments/assets/c68bbfd2-6fdd-4039-b055-395a07a75f92" />
 
 
 <h1 align="center">¡Hola! 👋 Soy Mario </h1>
