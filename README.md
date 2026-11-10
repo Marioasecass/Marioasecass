@@ -56,8 +56,7 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Marioasecass&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marioasecass&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://gprm.itsvg.in/api?username=Marioasecass&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
