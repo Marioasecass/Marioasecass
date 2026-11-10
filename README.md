@@ -46,7 +46,7 @@
   </a>
   &nbsp;&nbsp;
   <!-- Email / Gmail -->
-  <a href="mailto:palomomorenom@email.com">
+  <a href="palomomorenom@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     <img src="https://img.shields.io/badge/TU_CORREO%40EMAIL.COM-EA4335?style=for-the-badge&logoColor=white" alt="Email"/>
   </a>
